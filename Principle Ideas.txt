@@ -1,0 +1,3 @@
+Max Players: 12-24
+Factions: Humans, Mages, Parasites, Mutant
+Locations: Volcano, Flagship, City*, Sakleido Cannon(Fucking huge cannon), Elf Ruins(tomb of sargeras-liknande), Naval Base, Island(metastasis planet), Research grej(Wizard's Tower), World Tree
