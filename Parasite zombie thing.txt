@@ -1,1 +1,0 @@
-models/heroes/undying/undying_minion.vmd
